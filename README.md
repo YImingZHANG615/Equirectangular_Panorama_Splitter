@@ -70,8 +70,8 @@ sudo yum install ffmpeg
 
 ```bash
 # 克隆仓库
-git clone https://github.com/yourusername/panorama-split.git
-cd panorama-split
+git clone https://github.com/YImingZHANG615/Equirectangular_Panorama_Splitter.git
+cd Equirectangular_Panorama_Splitter
 
 # 安装 Python 依赖（本工具仅使用标准库，此步骤为可选）
 pip install -r requirements.txt
@@ -263,8 +263,8 @@ FFmpeg 使用 LGPL/GPL 许可证，请确保遵守其许可证要求。
 ## 📧 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 提交 [Issue](https://github.com/yourusername/panorama-split/issues)
-- 发送邮件：[your-email@example.com]
+- 提交 [Issue](https://github.com/YImingZHANG615/Equirectangular_Panorama_Splitter/issues)
+- 发送邮件：yimingarchitect@gmail.com
 
 ## 🙏 致谢
 
